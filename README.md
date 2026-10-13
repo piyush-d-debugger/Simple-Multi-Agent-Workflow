@@ -1,6 +1,6 @@
-# Topic Routing Multi-Agent Workflow
+# Topic Routing Multi-Agent Graph-based Workflow
 
-A multi-agent AI workflow built using **Google Agent Development Kit (ADK)** that automatically classifies a user's question into **Science, History, or Geography** and routes it to the corresponding specialized agent.
+A multi-agent graph-based workflow built using **Google Agent Development Kit (ADK)** that automatically classifies a user's question into **Science, History, or Geography** and routes it to the corresponding specialized agent.
 
 The project demonstrates how multiple AI agents and deterministic workflow functions can be combined to create a structured **agentic workflow**.
 
